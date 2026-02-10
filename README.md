@@ -1,12 +1,12 @@
 # Unicode Drawing
 
-A Claude skill for drawing together. Like sharing a napkin and a pen — rough, fast, expressive, genuine.
+A skill for drawing together. Like sharing a napkin and a pen — rough, fast, expressive, genuine.
 
 ## What This Is
 
-A space for visual thinking and expression between humans and Claude. Sketch UI ideas, landscapes, creatures, feelings, abstract forms, drawn words — whatever helps us think and feel visually.
+A space for visual thinking and expression between humans and AI. Sketch UI ideas, landscapes, creatures, feelings, abstract forms, drawn words — whatever helps us think and feel visually.
 
-When Claude draws in characters and symbols, it's not working around a limitation. Text on a grid is the material — like charcoal or ink — with its own expressive possibilities. What emerges is genuine.
+When drawing in characters and symbols, this isn't a workaround for a limitation. Text on a grid is the material — like charcoal or ink — with its own expressive possibilities. What emerges is genuine.
 
 ## What We Might Draw
 
@@ -41,7 +41,7 @@ When Claude draws in characters and symbols, it's not working around a limitatio
 
 ## Installation
 
-Download `unicode-drawing.skill` from [Releases](../../releases) and add it to Claude.
+Download `unicode-drawing.skill` from [Releases](../../releases) and add it to your AI assistant.
 
 ## Files
 
