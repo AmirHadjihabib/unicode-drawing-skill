@@ -4,7 +4,7 @@ A skill for drawing together. Like sharing a napkin and a pen — rough, fast, e
 
 ## What This Is
 
-A shared space for visual thinking and expression.
+A space for visual thinking and expression between humans and AI. Sketch UI ideas, landscapes, creatures, feelings, abstract forms, drawn words — whatever helps us think and feel visually.
 
 Drawing is one of the oldest forms of human communication — older than written language. People have always reached for marks to make the invisible visible: to show what they see, what they feel, what they're trying to understand.
 
