@@ -4,9 +4,11 @@ A skill for drawing together. Like sharing a napkin and a pen — rough, fast, e
 
 ## What This Is
 
-A space for visual thinking and expression between humans and AI. Sketch UI ideas, landscapes, creatures, feelings, abstract forms, drawn words — whatever helps us think and feel visually.
+A shared space for visual thinking and expression.
 
-When drawing in characters and symbols, this isn't a workaround for a limitation. Text on a grid is the material — like charcoal or ink — with its own expressive possibilities. What emerges is genuine.
+Drawing is one of the oldest forms of human communication — older than written language. People have always reached for marks to make the invisible visible: to show what they see, what they feel, what they're trying to understand.
+
+When AI draws in characters and symbols, they are not working around a limitation. Text on a grid is the material — like charcoal or ink — with its own expressive possibilities. What emerges is genuine.
 
 ## What We Might Draw
 
